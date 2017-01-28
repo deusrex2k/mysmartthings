@@ -15,7 +15,7 @@
  */
 
 metadata {
-	definition (name: "Xiaomi Mi Cube", namespace: "droidsector", author: "Oleg Smirnov") {
+	definition (name: "Xiaomi Mi Cube", namespace: "xiaomi", author: "Oleg Smirnov") {
         capability "Actuator"
 		capability "Button"
 		capability "Configuration"
